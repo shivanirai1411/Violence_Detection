@@ -1,0 +1,17 @@
+---
+:id: 26845682
+:submitters:
+- :name: Shivani Rai
+  :email: shivanir@seas.upenn.edu
+- :name: Natasha Menon
+  :email: natmenon@seas.upenn.edu
+- :name: Rahul Moonjely Rajeev
+  :email: rrajeev@gse.upenn.edu
+- :name: Vishnu Prem
+  :email: vprem@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-12-19 22:35:23.071921000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-12-19 14:35:23.071921000 Z
+:status: processed
